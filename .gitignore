@@ -1,0 +1,4 @@
+*.log
+*.xmi
+mined/
+access_token.txt
